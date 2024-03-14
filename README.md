@@ -39,17 +39,6 @@ Usage
  
 
 4. 	The detailed step after user selects one of the scripts is given below:  
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
  
